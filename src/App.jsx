@@ -57,7 +57,7 @@ export default function App() {
         </h1>
       </section>
 
-      <section className="flex max-w-5xl pb-32 m-auto justify-between flex-col lg:flex-row ml-24 lg:ml-0">
+      <section className="flex max-w-5xl  pb-32 m-auto justify-between flex-col lg:flex-row">
         <div className="bg-mycolor-400 w-60 rounded-md px-5 pb-16 mb-5 lg:mb-0">
           <img className="pt-40" src="/q1 (2).svg" alt="" />
           <h1 className="text-lg pt-2 font-inter">UX & UI</h1>
